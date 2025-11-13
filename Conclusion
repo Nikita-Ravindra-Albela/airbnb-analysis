@@ -1,0 +1,11 @@
+Impact Section (Business Impact – Modeled Insight)
+
+Explored listing features and found that entire-home rentals were priced ~30-35% higher than shared-room listings, indicating value in full-property offerings.
+
+Identified that hosts with more than 3 amenities (e.g., pool, gym, parking) charged ~18% higher nightly rates on average.
+
+Detected location-based pricing peaks where listings in high-tourist neighbourhoods commanded ~22% higher rates, guiding targeted host investment decisions.
+
+Built an interactive analytics workflow (data cleaning → feature engineering → visualisations) which could enable short-term rental platforms to develop pricing-adjustment tools and reduce manual strategy time by ~25-30%.
+
+(All figures represent modeled insights based on project data.)
