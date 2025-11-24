@@ -1,11 +1,30 @@
-Impact Section (Business Impact – Modeled Insight)
+## What Business Problems Did the Dashboard Help Solve?
 
-Explored listing features and found that entire-home rentals were priced ~30-35% higher than shared-room listings, indicating value in full-property offerings.
+ 1. Identified how location and property type drive price fluctuations → helping hosts set competitive, revenue-maximizing prices.
 
-Identified that hosts with more than 3 amenities (e.g., pool, gym, parking) charged ~18% higher nightly rates on average.
+2. Understanding Occupancy Drivers
+Found that listings with stronger reviews & ratings consistently achieve higher occupancy → highlighting the ROI of service quality.
 
-Detected location-based pricing peaks where listings in high-tourist neighbourhoods commanded ~22% higher rates, guiding targeted host investment decisions.
+3. Identifying High-Performing & Underperforming Areas
+Popular neighborhoods show stable demand, while weaker locations need targeted offers and experience improvements → guiding marketing and investment decisions.
 
-Built an interactive analytics workflow (data cleaning → feature engineering → visualisations) which could enable short-term rental platforms to develop pricing-adjustment tools and reduce manual strategy time by ~25-30%.
+4. Improving Host Strategy
+Patterns revealed which host behaviors (responsiveness, amenities, clarity) correlate with better engagement → enabling hosts to refine listing strategy.
 
-(All figures represent modeled insights based on project data.)
+## Key Takeaways
+
+Location is the #1 factor influencing price & demand
+
+High-rated hosts win more bookings
+
+Certain property types perform best in tourist-heavy areas
+
+Underperforming areas can boost demand with seasonal offers & better guest experience
+
+## Tools Used
+
+Python • Pandas • NumPy • Matplotlib • Seaborn • Jupyter Notebook
+
+This project strengthened my ability to extract business insights from real-world data and translate them into actionable strategies.
+
+#DataAnalysis #Airbnb #Python #EDA #Analytics #DataVisualization #HolidaySeason #PricingStrategy
